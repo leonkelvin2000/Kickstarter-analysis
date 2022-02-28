@@ -12,7 +12,7 @@ is not above the median as shown on (Discriptive Statistics).
 ![Parent Category Outcomes chart](https://user-images.githubusercontent.com/98680133/155865909-f3e287b7-08ca-4c8d-ae71-8922b97ff5e9.png)
 ![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/98680133/155865913-fba6f787-7fa4-40ea-970b-4f0352e73ace.png)
 
-# Kickstarting with Excel
+# Kickstarting Challange with Excel
 
 ## Overview of Project
 
